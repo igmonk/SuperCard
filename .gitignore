@@ -1,0 +1,8 @@
+# Mac files #
+.DS_store
+
+# Xcode build files #
+SuperCard/build/
+SuperCard.xcodeproj/xcuserdata/
+SuperCard.xcodeproj/project.xcworkspace/xcuserdata/
+SuperCard/SuperCard.xcodeproj/xcuserdata/
